@@ -4,11 +4,7 @@
 
 Vless & Vmess: 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Aebastiane/vxkteo) 
-
-**Risk of account blocking for abuse!**
-
-**Risk of account blocking for abuse!**
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/kk3948/savlgo) 
 
 **Risk of account blocking for abuse!**
 
